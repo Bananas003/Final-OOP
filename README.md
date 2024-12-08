@@ -24,3 +24,9 @@ DVD: Subclass of LibraryItem
 Searchable: Interface for searching items by title
 LibraryUser: Abstract class for library users
 Student: Subclass of LibraryUser representing a student
+
+**How to Run the Program**
+1. Save all .java files in the same directory.
+2. Make sure you have Java installed on your computer.
+3.Open a terminal or command prompt, navigate to the project folder, and compile all files: "javac *.java"
+4. Run the program by executing the Main class: "java Main"
